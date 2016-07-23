@@ -1,0 +1,2 @@
+# molib
+a modelica library
