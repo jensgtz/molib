@@ -1,2 +1,2 @@
 # molib
-a modelica library
+a modelica library.
